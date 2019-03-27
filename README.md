@@ -4,7 +4,7 @@
 
 ## Current Release
 
-v2.3.1 "Billings"
+v2.3.2 "Bozeman"
 
 ## Scale
 
