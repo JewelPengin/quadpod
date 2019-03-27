@@ -28,5 +28,7 @@ I personally used [Inkscape](https://inkscape.org/). However, "it's just XML"™
 ## Credits
 
 Layout, names, and otherwise all the other hard work: Corey Webster, Elvin Bearden, Michael Cacek
+
 SVG Work: Jonathan Larson
+
 Lighting icon: Icons made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
